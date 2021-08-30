@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Pleasure to meet you all here.
+## About Me
+- A Programming ENthusiast who loves to help people in this community.
+- Passionate for learning Android Development and all new tech related stuffs.
 
-<!--
-**SujalSamai/SujalSamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Languages- C/C++, Java, Python, HTML5, CSS3
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+[LinkedIn](https://www.linkedin.com/in/sujal-samai)
+[Twitter](https://twitter.com/SujalSamai?s=09)
+[Github](https://github.com/SujalSamai)
+[Portfolio](https://sujalsamai.github.io/Portfolio-v1.0/)
