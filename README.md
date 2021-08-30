@@ -7,7 +7,7 @@
 - Languages- C/C++, Java, Python, HTML5, CSS3
 
 ## Socials
-[LinkedIn](https://www.linkedin.com/in/sujal-samai)
-[Twitter](https://twitter.com/SujalSamai?s=09)
-[Github](https://github.com/SujalSamai)
+[LinkedIn](https://www.linkedin.com/in/sujal-samai) *
+[Twitter](https://twitter.com/SujalSamai?s=09) *
+[Github](https://github.com/SujalSamai) *
 [Portfolio](https://sujalsamai.github.io/Portfolio-v1.0/)
