@@ -27,6 +27,10 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [Portfolio](https://sujalsamai.github.io/Portfolio-v1.0/)
 
+[![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [twitter]: https://twitter.com/SujalSamai?s=09
 [instagram]: https://instagram.com/sujalsamai?utm_medium=copy_link
 [linkedin]: https://www.linkedin.com/in/sujal-samai
