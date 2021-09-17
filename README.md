@@ -31,6 +31,10 @@
         <a href="https://www.codechef.com/users/sujalsamai"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-D14836?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </div>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="SujalSamai" width="49%" >
+  [![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalSamai&theme=xcode)](https://github.com/SujalSamai)
+</p>
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight" />
