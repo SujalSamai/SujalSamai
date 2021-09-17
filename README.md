@@ -32,8 +32,7 @@
 </div>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="SujalSamai" width="49%" >
-  [![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalSamai&theme=xcode)](https://git.io/SujalSamai)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="SujalSamai">
 </p>
 
 <p align="center">
