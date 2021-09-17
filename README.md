@@ -30,14 +30,14 @@
         <a href="https://www.hackerrank.com/sujalsamai123"><img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
         <a href="https://www.codechef.com/users/sujalsamai"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-D14836?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </div>
-
+<br/>
 [![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalSamai&theme=xcode)](https://git.io/sujalsamai)
 
 
 <p align="center">
     <img width="32%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight" />
     <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalSamai&theme=tokyonight" />
-    <img width="32%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&layout=compact&theme=radical" alt="SujalSamai" >
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&layout=compact&theme=radical" alt="SujalSamai" >
 </p
 
 [Portfolio]: https://sujalsamai.github.io/Portfolio-v1.0/
