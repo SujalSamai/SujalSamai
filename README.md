@@ -30,7 +30,7 @@
         <a href="https://www.hackerrank.com/sujalsamai123"><img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
         <a href="https://www.codechef.com/users/sujalsamai"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-D14836?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </div>
-<br/>
+<p><br/></p>
 [![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalSamai&theme=xcode)](https://git.io/sujalsamai)
 
 
