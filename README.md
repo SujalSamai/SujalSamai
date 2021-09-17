@@ -1,6 +1,7 @@
 # Hi there 👋, I'm [Sujal Samai][Portfolio]
 ## Pleasure to meet you all here.
 ## About Me
+<img align="right" alt="Coding" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&layout=compact&theme=radical">
 - 👨‍💻 A Programming Enthusiast who loves to help people in this community.
 - 📱 Passionate for learning Android Development and all new tech related stuffs.
 - 🌱 I’m currently learning everything 🤣
@@ -32,10 +33,9 @@
 </div>
 
 <p align="center">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight" />
-    <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalSamai&theme=tokyonight" />
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&layout=compact&theme=radical" alt="SujalSamai" >
-</p
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalSamai&theme=tokyonight" />
+</p>
 
 [![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalSamai&theme=xcode)](https://git.io/sujalsamai)
 
