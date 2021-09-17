@@ -31,8 +31,8 @@
         <a href="https://www.codechef.com/users/sujalsamai"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-D14836?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni1010&layout=compact&theme=radical" alt="SujalSamai">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&layout=compact&theme=radical" alt="SujalSamai">
 </p>
 
 <p align="center">
