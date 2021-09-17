@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Sujal Samai][Portfolio]
 ## Pleasure to meet you all here.
-## About Me
 <img align="right" alt="Coding" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&layout=compact&theme=radical">
+## About Me
 - 👨‍💻 A Programming Enthusiast who loves to help people in this community.
 - 📱 Passionate for learning Android Development and all new tech related stuffs.
 - 🌱 I’m currently learning everything 🤣
