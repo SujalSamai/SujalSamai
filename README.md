@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sujal Samai
+# Hi there 👋, I'm [Sujal Samai][Portfolio]
 ## Pleasure to meet you all here.
 ## About Me
 - 👨‍💻 A Programming Enthusiast who loves to help people in this community.
@@ -22,10 +22,15 @@
 
 ## Connect With me
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[Portfolio](https://sujalsamai.github.io/Portfolio-v1.0/)
+<div align="left">
+        [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+        [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+        [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+        [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
+        [<img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>][hackerrank]
+        [<img alt="Codechef" src="https://img.shields.io/badge/Codechef-D14836?style=for-the-badge&logo=codechef&logoColor=white"/>][codechef]
+</div>
+
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight" />
@@ -36,3 +41,7 @@
 [twitter]: https://twitter.com/SujalSamai?s=09
 [instagram]: https://instagram.com/sujalsamai?utm_medium=copy_link
 [linkedin]: https://www.linkedin.com/in/sujal-samai
+[gmail]: mailto:sujalsamai123@gmail.com
+[hackerrank]: https://www.hackerrank.com/sujalsamai123
+[codechef]: https://www.codechef.com/users/sujalsamai
+[Portfolio]: https://sujalsamai.github.io/Portfolio-v1.0/
