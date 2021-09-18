@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Sujal Samai][Portfolio]
 ## Pleasure to meet you all here.
 
-[(<img align="right" alt="Coding" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&langs_count=8&layout=compact&theme=radical">)][Top Langs]
+[<img align="right" alt="Coding" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&langs_count=8&layout=compact&theme=radical">][Top Langs]
 
 
 - 👨‍💻 A Programming Enthusiast who loves to help people in this community.
@@ -40,8 +40,7 @@
 </div>
 <br/>
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight&show_icons=true
-" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight&show_icons=true" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalSamai&theme=tokyonight" />
 </p>
 
