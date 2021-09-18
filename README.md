@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Sujal Samai][Portfolio]
 ## Pleasure to meet you all here.
 
-[![Top Langs](<img align="right" alt="Coding" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&langs_count=8&layout=compact&theme=radical">)](https://github.com/SujalSamai/github-readme-stats)
+[(<img align="right" alt="Coding" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&langs_count=8&layout=compact&theme=radical">)][Top Langs]
 
 
 - 👨‍💻 A Programming Enthusiast who loves to help people in this community.
@@ -40,7 +40,7 @@
 </div>
 <br/>
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight&count_private=true&show_icons=true
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight&show_icons=true
 " />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalSamai&theme=tokyonight" />
 </p>
@@ -48,3 +48,4 @@
 [![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalSamai&theme=xcode)](https://git.io/sujalsamai)
 
 [Portfolio]: https://sujalsamai.github.io/Portfolio-v1.0/
+[Top Langs]: https://github.com/SujalSamai/github-readme-stats
