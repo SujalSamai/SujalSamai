@@ -8,7 +8,7 @@
 
 - 📱 Passionate for learning Android Development and all new tech related stuffs.
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Front-End Web Development
 
 - 👯 I’m looking to collaborate with other content creators
 
