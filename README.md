@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects, and learn Backend Technologies
 
 - ⚡ Fun fact: I love to listen Music and Read Books
 
