@@ -46,5 +46,5 @@
 
 [![Sujal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SujalSamai&theme=xcode)](https://git.io/sujalsamai)
 
-[Portfolio]: https://sujalsamai.github.io/Portfolio-v1.0/
+[Portfolio]: https://sujalsamai.netlify.app
 [Top Langs]: https://github.com/SujalSamai/github-readme-stats
