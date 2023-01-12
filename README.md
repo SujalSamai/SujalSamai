@@ -27,9 +27,9 @@
 </div>
 <br/>
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&theme=tokyonight&show_icons=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalSamai&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalSamai&show_icons=true&theme=tokyonight&show_icons=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalSamai&show_icons=true&bg_color=00000000" />
 </p>
 
-[Portfolio]: https://sujalsamai.netlify.app
-[Top Langs]: https://github.com/SujalSamai/github-readme-stats
+[Portfolio]: https://sujalsamai.co
+[Top Langs]: https://github.com/anuraghazra/github-readme-stats
