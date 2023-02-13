@@ -23,7 +23,7 @@
         <a href="https://www.linkedin.com/in/sujal-samai"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://instagram.com/sujalsamai?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="mailto:sujalsamai123@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-        <a href="https://sujalsamai.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+        <a href="https://sujalsamai.co/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 </div>
 <br/>
 <!-- <p align="center">
