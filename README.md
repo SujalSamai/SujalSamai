@@ -1,7 +1,6 @@
-# Hi 👋, I'm Sujal Samai
+# Hi 👋, I'm Sujal Samai   <img src="https://komarev.com/ghpvc/?username=sujalsamai&label=Profile%20views&color=0e75b6&style=flat" alt="sujalsamai" /> 
 ### I'm an undergrad, Frontend Web Developer who likes to design beautiful websites primarily using React.js and Tailwind CSS.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sujalsamai&label=Profile%20views&color=0e75b6&style=flat" alt="sujalsamai" /> </p>
 
 - 🔭 I’m currently working on [GitShow](https://github.com/MadhaviGupta/GitShow)
 
@@ -37,13 +36,13 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/sujalsamai" target="blank">Twitter</a>
-<a href="https://linkedin.com/in/sujal-samai" target="blank">LinkedIn</a>
-<a href="https://instagram.com/sujalsamai" target="blank">Instagram</a>
-<a href="https://hashnode.com/sujalsamai" target="blank">Hashnode</a>
-<a href="https://www.codechef.com/users/sujalsamai" target="blank">Codechef</a>
-<a href="https://www.leetcode.com/sujalsamai" target="blank">LeetCode</a>
-<a href="https://discord.gg/6596" target="blank">Discord</a>
+<a href="https://twitter.com/sujalsamai" target="blank">🐦Twitter</a>
+<a href="https://linkedin.com/in/sujal-samai" target="blank">🔗LinkedIn</a>
+<a href="https://instagram.com/sujalsamai" target="blank">📸Instagram</a>
+<a href="https://hashnode.com/sujalsamai" target="blank">📝Hashnode</a>
+<a href="https://www.codechef.com/users/sujalsamai" target="blank">🧑🧑🏽‍🍳Codechef</a>
+<a href="https://www.leetcode.com/sujalsamai" target="blank">👨🏽‍💻LeetCode</a>
+<a href="https://discord.gg/6596" target="blank">🎮Discord</a>
 </p>
 
 ### Skills:
@@ -62,6 +61,8 @@
 - Student Community Member of [Generation Nothing](https://in.nothing.tech/blogs/news/our-new-student-program-generation-nothing) Program operated by Nothing Technology Ltd. x Yuvaa.
 - Executive Committee Member in Competitive Programming at Codechef Medicaps Chapter.
 
+
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalsamai&show_icons=true&locale=en&layout=compact" alt="sujalsamai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalsamai&" alt="sujalsamai" /></p>
