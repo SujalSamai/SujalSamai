@@ -1,5 +1,6 @@
 # Hi 👋, I'm Sujal Samai   <img src="https://komarev.com/ghpvc/?username=sujalsamai&label=Profile%20views&color=0e75b6&style=flat" alt="sujalsamai" /> 
-![Sujal Samai](https://github.com/SujalSamai/SujalSamai/assets/87236576/36d832b9-d030-476f-a60d-fc303a8c7ff2)
+![Banner_Img](https://github.com/SujalSamai/SujalSamai/assets/87236576/471fe6f4-3f40-45ef-bf28-6ed8ba345461)
+
 
 - 👨‍💻 All about me [sujalsamai.co](https://sujalsamai.co)
 
