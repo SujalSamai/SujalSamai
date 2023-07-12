@@ -1,6 +1,8 @@
 # Hi 👋, I'm Sujal Samai   <img src="https://komarev.com/ghpvc/?username=sujalsamai&label=Profile%20views&color=0e75b6&style=flat" alt="sujalsamai" /> 
+![Sujal Samai](https://github.com/SujalSamai/SujalSamai/assets/87236576/36d832b9-d030-476f-a60d-fc303a8c7ff2)
 
 - 👨‍💻 All about me [sujalsamai.co](https://sujalsamai.co)
+
 
 - 📝 I regularly write articles on [sujalsamai.hashnode.dev/](https://sujalsamai.hashnode.dev/)
 
@@ -20,7 +22,7 @@
 - Researched and led the development of a Custom Chatbot using LangChain, Django and LLama-Hub to create vector embeddings of data and do similarity search on documents to generate responses.
 - Extensively used Microsoft Azure to handle cloud deployments of various products and Tested Video embeddings to generate their metadata.
 - Improved handling multiple contexts in React Native codebases and worked as a Software tester for mobile applications.
-- 
+
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/sujalsamai" target="blank">🐦Twitter</a>
