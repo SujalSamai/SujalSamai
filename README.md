@@ -2,7 +2,7 @@
 ![Banner_Img](https://github.com/SujalSamai/SujalSamai/assets/87236576/471fe6f4-3f40-45ef-bf28-6ed8ba345461)
 
 
-- 👨‍💻 All about me [sujalsamai.co](https://sujalsamai.co)
+- 👨‍💻 All about me [sujalsamai.vercel.app](https://sujalsamai.vercel.app)
 
 
 - 📝 I regularly write articles on [sujalsamai.hashnode.dev/](https://sujalsamai.hashnode.dev/)
@@ -14,6 +14,11 @@
 - 📄 Wanna hire me? [Resume](https://indigo-ring-f16.notion.site/Sujal-Samai-b6d2c9e8d513441b9c0cc863d69d3705?pvs=4)
 
 ## Experience
+
+### Software Engineer Intern
+
+**DigiValet, Indore, India - (Jan 2024 - Present)**
+- Working as a Java Developer whose main task is to configure the DVCs used by DigiValet to provide services to our customers.
 
 ### Full Stack Intern
 
