@@ -38,7 +38,7 @@ capabilities.
 **DigiValet, Indore, India - (Jan 2024 - July, 2024)**
 - Developed a microservice to integrate multiple smart door lock systems from different vendors, ensuring seamless
 interoperability and centralized management.
-• Enhanced the streaming capabilities by enabling secure streaming of encrypted channels and optimizing supportfor
+- Enhanced the streaming capabilities by enabling secure streaming of encrypted channels and optimizing supportfor
 HLS (HTTP Live Streaming) based channels, increasing content delivery reliability by 25% and expanded the product’s
 compatibility with premium content providers, driving broader customer adoption.
 
