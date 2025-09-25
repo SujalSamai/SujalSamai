@@ -11,14 +11,36 @@
 
 - 📫 How to reach me **sujalsamai.work@gmail.com**
 
-- 📄 Wanna hire me? [Resume](https://indigo-ring-f16.notion.site/Sujal-Samai-b6d2c9e8d513441b9c0cc863d69d3705?pvs=4)
+- 📄 Wanna hire me? [Resume](https://drive.google.com/file/d/1lflK3bRkCGBY1DkEH3OWL9M6seXnoEBC/view?usp=sharing)
 
 ## Experience
 
+### Software Engineer
+
+**Digivalet, Indore, India - (July, 2024 - Present)**
+- Built a Spring Boot microservice integrating with Oracle Opera PMS (FIAS protocol) to handle thousands of guest
+records daily across 30+ hotel properties, enabling reliable, scalable guest data management via GraphQL-powered
+cloud services.
+- Optimized Spring Boot microservices by refactoring workflows and consolidating service interactions, reducing API
+calls by 90% and significantly improving system performance, scalability, and resource efficiency.
+- Engineered real-time communication for LG Pro:Centric & Samsung Tizen TV apps with MQTT integration, deployed
+in 3000+ hotel rooms across 5 properties, ensuring low-latency sync between smart TVs and guest devices while
+eliminating code rewrites for new TV models.
+- Integrated Music Modules & Guest Room Management Services (GRMS) using socket programming serial
+connections, powering 150+ device types across 50+ hotel properties and enabling centralized in-room system control
+to boost guest satisfaction and operational efficiency.
+- Developed Alexa integrations with OAuth 2.0, now running in 7000+ hotel rooms across 10+ properties, delivering
+secure, voice-activated smart-room automation and expanding the hospitality product’s hands-free, next-gen
+capabilities.
+
 ### Software Engineer Intern
 
-**DigiValet, Indore, India - (Jan 2024 - Present)**
-- Working as a Java Developer whose main task is to configure the DVCs used by DigiValet to provide services to our customers.
+**DigiValet, Indore, India - (Jan 2024 - July, 2024)**
+- Developed a microservice to integrate multiple smart door lock systems from different vendors, ensuring seamless
+interoperability and centralized management.
+• Enhanced the streaming capabilities by enabling secure streaming of encrypted channels and optimizing supportfor
+HLS (HTTP Live Streaming) based channels, increasing content delivery reliability by 25% and expanded the product’s
+compatibility with premium content providers, driving broader customer adoption.
 
 ### Full Stack Intern
 
@@ -30,7 +52,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/sujalsamai" target="blank">🐦Twitter</a>
+<a href="https://x.com/sujalsamai" target="blank">🐦Twitter</a>
 <a href="https://linkedin.com/in/sujal-samai" target="blank">🔗LinkedIn</a>
 <a href="https://instagram.com/sujalsamai" target="blank">📸Instagram</a>
 <a href="https://hashnode.com/sujalsamai" target="blank">📝Hashnode</a>
@@ -40,10 +62,10 @@
 </p>
 
 ## Skills:
-- **Languages:** Java, Javascript, Python, SQL, C++
-- **Frameworks/Libraries:** Next.js, React.js, Bootstrap, TailwindCSS, Streamlit
-- **Tools:** Git, Github, Firebase, VSCode, Intellij IDEA, POSTMAN, Vite
-- **Databases:** MySQL, Firestore
+- **Languages:** Java, SQL, JavaScript
+- **Technologies:** SpringBoot, MicroServices, Rest APIs, GraphQL, Kafka, MQTT
+- **Tools:** Git, Github, Firebase, VSCode, Intellij IDEA, POSTMAN, Linux, Maven
+- **Databases:** MySQL, MariaDB
 - **Others:** Data Structures & Algorithms, Technical Writing, Team Management
 
 ## Articles
