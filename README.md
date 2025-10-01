@@ -2,10 +2,7 @@
 
 - 👨‍💻 All about me [sujalsamai.vercel.app](https://sujalsamai.vercel.app)
 
-
 - 📝 I regularly write articles on [sujalsamai.hashnode.dev/](https://sujalsamai.hashnode.dev/)
-
-- 💬 Ask me about **Frontend Development, Open Source and DSA**
 
 - 📫 How to reach me **sujalsamai.work@gmail.com**
 
