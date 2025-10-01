@@ -64,9 +64,17 @@ compatibility with premium content providers, driving broader customer adoption.
 - **Others:** Data Structures & Algorithms, Technical Writing, Team Management
 
 ## Articles
+- [Not Just RESTing: How gRPC Redefines Service Communication](https://sujalsamai.hashnode.dev/not-just-resting-how-grpc-redefines-service-communication)
+- [Spring Security - A Quick Overview](https://sujalsamai.hashnode.dev/spring-security-a-quick-overview)
 - [Chat with your PDFs using LangChain](https://sujalsamai.hashnode.dev/chat-with-your-pdfs-using-langchain)
 - [Get your React Forms right](https://sujalsamai.hashnode.dev/get-your-react-forms-right)
 - [Appwrite Community Spotlight: Building VogueEco](https://dev.to/appwrite/community-spotlight-building-vogueeco-a-sustainable-fashion-app-7c8?utm_content=252522006&utm_medium=social&utm_source=twitter&hss_channel=tw-806598100764807170)
+
+## Achievements
+- [Won the best overall project in Design-a-thon by MLH](https://devpost.com/software/vogueeco-enkp1w)
+- Solved more than 500+ Questions on Leetcode, GFG & Coding Ninjas.
+- Ranked in the top 33% of Leetcoders globally with a 1500+ rating.
+- Secured a top 350 position among 51,000+ participants in the TVS E.P.I.C. Hackathon.
 
 ## Volunteer Experience
 - Student Community Member of [Generation Nothing](https://in.nothing.tech/blogs/news/our-new-student-program-generation-nothing) Program operated by Nothing Technology Ltd. x Yuvaa.
